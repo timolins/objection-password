@@ -1,6 +1,6 @@
 'use strict';
 
-const Bcrypt = require('bcrypt');
+const Bcrypt = require('bcryptjs');
 
 const RECOMMENDED_ROUNDS = 12;
 
